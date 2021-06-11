@@ -1,0 +1,18 @@
+body{
+    background-color: lightblue;
+}
+.smallerwords{
+    
+    border: 5px dotted blue;
+    margin-left: 100px;
+    margin-right:100px;
+    padding-top:10px;
+}
+
+#smallestwords{
+ 
+border: 5px dashed red;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
